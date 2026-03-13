@@ -1,16 +1,24 @@
-# news_intelligence
+# 📰 News Intelligence App
 
-A new Flutter project.
+A Flutter application that displays the latest business news using the NewsAPI.  
+The app allows users to browse articles, search news, save favorites, and read article details.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Simple Login with local storage
+- 📰 News Feed with pagination
+- 🔍 Search news articles
+- 📄 Article detail screen
+- ❤️ Save / Remove favorites
+- 💾 Favorites stored using GetStorage
+- 🌙 Light / Dark Theme support
+- 🔄 Pull to refresh
+- 📱 Clean MVVM architecture using Provider
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏗 Architecture
+
+This project follows **Clean MVVM Architecture**
